@@ -1,0 +1,1 @@
+21:06:28	 From  Hafiz : regexReplace($datetime$, "(.*) .*", "$1")

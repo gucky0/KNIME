@@ -1,0 +1,1 @@
+15:42:54	 From  Hafiz : d[.dd]/M[.MM]/yyyy H[.HH]:mm

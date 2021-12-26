@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewValue">
+    <entry key="chartTitle" type="xstring" value=""/>
+    <entry key="chartSubtitle" type="xstring" value=""/>
+    <entry key="xCol" type="xstring" value="day_num"/>
+    <config key="yCols">
+        <entry key="array-size" type="xint" value="10"/>
+        <entry key="0" type="xstring" value="Mean(T1)"/>
+        <entry key="1" type="xstring" value="Mean(T2)"/>
+        <entry key="2" type="xstring" value="Mean(T3)"/>
+        <entry key="3" type="xstring" value="Mean(T4)"/>
+        <entry key="4" type="xstring" value="Mean(T5)"/>
+        <entry key="5" type="xstring" value="Mean(T6)"/>
+        <entry key="6" type="xstring" value="Mean(T7)"/>
+        <entry key="7" type="xstring" value="Mean(T8)"/>
+        <entry key="8" type="xstring" value="Mean(T9)"/>
+        <entry key="9" type="xstring" value="Mean(T_out)"/>
+    </config>
+    <entry key="xAxisLabel" type="xstring" value=""/>
+    <entry key="yAxisLabel" type="xstring" value=""/>
+    <entry key="xAxisMin" type="xstring" isnull="true" value=""/>
+    <entry key="xAxisMax" type="xstring" isnull="true" value=""/>
+    <entry key="yAxisMin" type="xstring" isnull="true" value=""/>
+    <entry key="yAxisMax" type="xstring" isnull="true" value=""/>
+    <entry key="dot_size" type="xstring" value="3"/>
+    <config key="selectedKeys"/>
+    <entry key="image" type="xstring" isnull="true" value=""/>
+    <entry key="line_size" type="xint" value="2"/>
+</config>
